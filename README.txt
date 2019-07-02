@@ -1,0 +1,1 @@
+This repository is to serve as a sandbox of sorts for practice and development of SCSS transitions, translations, animations, etc.
